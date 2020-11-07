@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>xssano</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2020-11-06T10:12:22.882Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>森森</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>星河滚烫 人间理想</title>
+    <link href="http://example.com/2020/11/02/hello-world/"/>
+    <id>http://example.com/2020/11/02/hello-world/</id>
+    <published>2020-11-02T06:31:00.963Z</published>
+    <updated>2020-11-06T10:12:22.882Z</updated>
+    
+    <content type="html"><![CDATA[<p>星河滚烫，你是人间理想 。</p><p>皓月清明，你是人间曙光 。</p><p>举世皆浊，你是澄澈目光。</p><p>山河冷漠，你是人间炙热。</p><p>众人平庸，你是人间星光 。</p><p>世事无常，你是人间琳琅 。</p><p>满树繁花，你是心之所向。</p>]]></content>
+    
+    
+    <summary type="html">你是人间理想</summary>
+    
+    
+    
+    
+    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+</feed>
